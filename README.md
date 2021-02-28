@@ -33,7 +33,7 @@ Ngày 25/02/2021
 
 Ngày 26/02/2021
 -Hôm nay làm gì?
-+Tham gia Seminar 3 Kỹ năng làm việc tại doanh nghiệp
++Tham gia Seminar 
 +Tham gia buổi chia sẻ Kỹ năng phỏng vấn cơ bản
 +Vẽ mindmap module 2
 +Làm code signal 
