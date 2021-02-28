@@ -31,6 +31,20 @@ Ngày 25/02/2021
 +Làm code signal và q
 
 
+Ngày 26/02/2021
+-Hôm nay làm gì?
++Tham gia Seminar 3 Kỹ năng làm việc tại doanh nghiệp
++Tham gia buổi chia sẻ Kỹ năng phỏng vấn cơ bản
++Vẽ mindmap module 2
++Làm code signal 
+
+
+-Khó khăn:
++code signal
+
+-Ngày mai sẽ làm:
++Làm code signal và ôn tập kiến thức cũ 
+
 
 
 
